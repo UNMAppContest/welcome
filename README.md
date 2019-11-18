@@ -1,9 +1,14 @@
 # Welcome
-Welcome and instructions for UNM &amp; CNM App Contestants
-https://appcontest.unm.edu
+The App Contest is open to current UNM and CNM studnets. The submission deadline will be 11:59 PM of Sunday, January 5, 2020. Rules, calendar and additional information posted at: https://appcontest.unm.edu
 
-## How to submit your code
-If you add appcontest@unm.edu as a member of your team for your submission project, we will be able to reivew your code for the contest. You can choose to add us as Read-Only if you like.
+### How to submit your code
+If you add appcontest@unm.edu as a member of your team to your submission project's repository, we will be able to reivew your code for the contest. You can choose to add us as Read-Only if you like. Then send an email with a link to your team's repository by email to appcontest@unm.edu, with the Subject line of <your app name> Official Submission before the deadline.
+
+### What happens next
+We will pick up to 10 finalists out of the submissions entered. The first cut will be made on technical and utility grounds (e.g., we can build/use your mobile app on our devices, the app has useful and apparent functionality, the battery doesn't immediately drop from 100% to 3% charge, etc.) outlined in the Scoring Perameters: Technical Score of the rules page https://appcontest.unm.edu/rules.html.
+
+### Helpful information
+From the web site: https://appcontest.unm.edu/resources/helpful.html
 
 ## What to include in your submission repository
 1. README (see below)
