@@ -15,8 +15,8 @@ From the web site: https://appcontest.unm.edu/resources/helpful.html
 ## What to include in your submission repository
 1. README (see below)
 2. Code
-3. 3 Screen-shots of the App
-4. 1 Screen recording of your app in action. This will be the basis of your Demo Day video that you will narrate on stage for the judges. This screen recording need not be the final one, you will probably want to revise after receiving feed back during the manditory Demo Day Practice Session.
+3. Three (3) Screen-shots of the App
+4. One (1) Screen recording of your app in action. This will be the basis of your Demo Day video that you will narrate on stage for the judges. This screen recording need not be the final one, you will probably want to revise after receiving feed back during the manditory Demo Day Practice Session.
 
 ## What NOT to include in your submission repository
 1. Student transcripts. If you are a finalist, you will be asked to bring one for each member to the manditory Demo Day Practice Session.
