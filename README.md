@@ -19,9 +19,9 @@ From the web site: https://appcontest.unm.edu/resources/helpful.html
 4. One (1) Screen recording of your app in action. This will be the basis of your Demo Day video that you will narrate on stage for the judges. This screen recording may be while using Adobe XD, Figma early prototype.
 
 ## What NOT to include in your submission repository
-1. Student transcripts. If you are a finalist, you will be asked to bring one for each member.
-2. Release waivers.
-3. API keys, passwords, any privare information security vulnerabilities.
+1. Student transcripts. If you are a finalist, you will be asked to bring one for each member
+2. Release waivers
+3. Security vulnerabilities - API keys, passwords, any private information
 
 ## README File
-Please provide a ReadMe file with your repository. The technical judges will have no information about your app ahead of time, so tell us what the app is, what it does, who you are. Also include information about what language, framework and/or libraries you use. Imagine, we are a team of app developers who have been asked to take on support an maintenance for your app. This will begin the proposal and help initiate others to further contribute and provide feedback to the application team.
+Please provide a ReadMe file with your repository. The technical judges will have no information about your app ahead of time, so tell us what the app is, what it does, who you are. Also include information about which language, framework and/or libraries, trained models you plan to use. Imagine, we are a team of app developers who have been asked to take on support and maintenance for your app. This will begin the iterative versioning process, and help initiate others to further contribute and provide feedback to the application team.
